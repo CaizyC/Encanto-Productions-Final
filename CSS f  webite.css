@@ -1,0 +1,93 @@
+BODY{
+    background-color: rgb(5, 93, 40);
+
+}
+header{
+    background-color: rgba(68, 4, 64, 0.7);
+    padding: 60px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
+nav {
+    text-align: center;
+  }
+  
+li{
+   color: aliceblue;
+   height: 100%; 
+  }
+
+  
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc;
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical;
+}
+
+input[type=submit]:hover {
+  background-color: #aaaaaa;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+footer{
+  background-color: black;
+  text-align: right;
+}
+h1{
+  text-align: center;
+  color: #eea700;
+}
+h2{
+  text-align: center;
+  color: #eea700;
+}
+h3{
+  text-align: center;
+  color: #eea700;
+}
+h4{
+  text-align: center;
+  color: #eea700;
+}
+h5{
+  text-align: center;
+  color: #eea700;
+}
+h6{
+  text-align: center;
+  color: #eea700;
+}
+p{
+  color: #eea700
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 30px 16px;
+  font-size: 17px;}
+  button{
+  padding-left: 30;
+  }
+  p{
+    text-align: center;
+  }
+  button{
+    color: purple;
+  }
